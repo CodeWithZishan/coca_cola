@@ -1,4 +1,4 @@
-Here's the updated `README.md` file with a section for a screenshot of your project:
+Here's the updated `README.md` file with the correct path to your screenshot:
 
 ```markdown
 # Coca-Cola Webpage
@@ -14,7 +14,8 @@ This project is a simple, responsive webpage for Coca-Cola that showcases the br
 
 ## Screenshot
 
-![Coca-Cola Webpage Screenshot](./images/screenshot.png)
+![Coca-Cola Webpage Screenshot](https://raw.githubusercontent.com/CodeWithZishan/coca_cola/main/images/screenshot.png)
+
 
 ## Technologies Used
 
@@ -28,20 +29,20 @@ This project is a simple, responsive webpage for Coca-Cola that showcases the br
 To view the project, clone this repository and open the `index.html` file in your browser:
 
 ```bash
-git clone https://github.com/yourusername/coca-cola-webpage.git
-cd coca-cola-webpage
+git clone https://github.com/CodeWithZishan/coca_cola.git
+cd coca_cola
 open index.html
 ```
 
 ## File Structure
 
 ```
-coca-cola-webpage/
+coca-cola/
 ├── images/                  # Contains images used in the project
 │   ├── coca-cola.webp      # Coca-Cola logo
 │   ├── bottle.webp         # Coca-Cola glass bottle image
 │   ├── background.jpeg      # Background image for the center section
-│   └── screenshot.jpg       # Screenshot of the webpage
+│   └── screenshot.png       # Screenshot of the webpage
 ├── style.css               # Styles for the webpage
 └── index.html              # Main HTML file
 ```
@@ -60,4 +61,4 @@ If you want to contribute to this project, feel free to fork the repository and 
 This project is open source and available under the [MIT License](LICENSE).
 ```
 
-Make sure to replace `yourusername` in the installation instructions with your actual GitHub username. Let me know if you need any more changes!
+Feel free to customize it further if needed!
