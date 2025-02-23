@@ -1,6 +1,3 @@
-Here's the updated `README.md` file with the correct path to your screenshot:
-
-```markdown
 # Coca-Cola Webpage
 
 This project is a simple, responsive webpage for Coca-Cola that showcases the brand's offerings and allows users to learn more about their favorite drink. The design is modern, using CSS for styling and leveraging icons from Remix Icon.
@@ -12,9 +9,10 @@ This project is a simple, responsive webpage for Coca-Cola that showcases the br
 - **Content Sections**: Sections for descriptions, nutrients, and ingredients of the product.
 - **Visual Design**: Attractive layout with a background image and a prominent Coca-Cola logo.
 
-## Screenshot
+## Screenshots
 
-![Coca-Cola Webpage Screenshot](https://raw.githubusercontent.com/CodeWithZishan/coca_cola/main/images/screenshot.png)
+### Desktop View
+![Desktop Screenshot](./images/screenshot.png)
 
 
 ## Technologies Used
